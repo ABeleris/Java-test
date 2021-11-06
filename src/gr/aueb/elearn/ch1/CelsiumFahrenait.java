@@ -11,6 +11,7 @@ public class CelsiumFahrenait {
         int Far = in.nextInt();
         long Cel = 5* (Far-32)/9;
         System.out.printf("H thermokrasia se kelsiou einai: %d\t", Cel);
+        System.out.printf("H thermokrasia se kelsiou einai: allgh nea";
         in.close();
     }
 }
